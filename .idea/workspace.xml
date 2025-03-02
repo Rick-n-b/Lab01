@@ -53,19 +53,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "C:/Users/nic--/source/Jaba/Lab01",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nic--\source\Jaba\Lab01\src\main\resources\ru\nstu\lab01" />
+      <recent name="C:\Users\nic--\source\Jaba\Lab01\src\main\resources\ru\nstu\lab01\Motos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nic--\source\java projects\Lab01\src\main\resources\ru\nstu\lab01\Motos" />
       <recent name="C:\Users\nic--\source\java projects\Lab01\src\main\resources" />
@@ -75,12 +82,14 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Java/jdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="ru.nstu.lab01.App" />
       <module name="Lab01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.nstu.lab01.*" />
+          <option name="PATTERN" value="ru.nstu.lab01.Module.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +107,15 @@
       <option name="presentableId" value="Default" />
       <updated>1740284157397</updated>
     </task>
+    <task id="LOCAL-00001" summary="ver 01">
+      <option name="closed" value="true" />
+      <created>1740418612465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740418612465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
